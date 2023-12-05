@@ -7,8 +7,6 @@ A personal portfolio website showcasing your skills, projects.
 - [About](#about)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
