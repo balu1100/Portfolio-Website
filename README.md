@@ -22,6 +22,11 @@ This project is a personal portfolio website designed to showcase my skills, pro
 - **Experience Section:** Highlight your work experience or relevant achievements.
 - **Contact Section:** Provide a way for visitors to contact you.
 
+## Technologies Used
+
+- HTML
+- CSS
+
 ## Installation
 
 1. Clone the repository:
